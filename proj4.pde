@@ -3,6 +3,7 @@ int goRight, goLeft, jump;
 int page = 0;
 int texttime;
 
+//asd
 void setup() {
   size(400, 450);
   frameRate(30);
