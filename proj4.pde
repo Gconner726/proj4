@@ -2,7 +2,7 @@ float gx, gy, gvy, gd =1, Mx = 250, My = 250, bgx, bgy;
 int goRight, goLeft, jump;
 int page = 0;
 int texttime;
-
+//hasdihasd
 //asd
 //wdads
 void setup() {
