@@ -4,6 +4,7 @@ int page = 0;
 int texttime;
 
 //asd
+//wdads
 void setup() {
   size(400, 450);
   frameRate(30);
